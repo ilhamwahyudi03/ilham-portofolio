@@ -84,6 +84,7 @@ export default function Hero() {
             </p>
             <a
               href="/M-Ilham-Wahyudi-CV-2026.pdf"
+              download="M-Ilham-Wahyudi-CV-2026.pdf"
               className="inline-flex items-center gap-3 border border-cyan-400 text-cyan-400 px-8 py-3 font-mono text-sm font-bold tracking-widest uppercase transition-all duration-300 hover:bg-cyan-400 hover:text-[#0a0f1e] hover:shadow-[0_0_20px_rgba(0,229,255,0.5)]"
             >
               DOWNLOAD CV <FaDownload />
